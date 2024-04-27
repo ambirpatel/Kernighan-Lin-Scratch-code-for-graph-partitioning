@@ -4,6 +4,7 @@ import random
 import networkx as nx
 
 # Read edge data from file
+# data
 data = pd.read_csv("karate.dat", sep=' ')
 
 # Number of vertices
